@@ -19,3 +19,4 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 ## Links
 
 * Blog post - https://bluegenes.github.io/mkdocs-github-actions/
+* Others ...
