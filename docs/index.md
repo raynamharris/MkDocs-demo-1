@@ -21,4 +21,5 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 * Blog post - https://bluegenes.github.io/mkdocs-github-actions/
 * Others ...
 * Even more ...
-* <a href="https://www.youtube.com/watch?v=taeAqimxXWo&t=85s"> <i class="fa-solid fa-film"></i></a>
+
+Trying to add a video <a href="https://www.youtube.com/watch?v=taeAqimxXWo&t=85s"> <i class="fa-solid fa-film"></i></a>
