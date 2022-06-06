@@ -31,3 +31,5 @@ Adding font awesome
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
 
 <i class="fa fa-camera-retro fa-lg"></i> fa-lg
+
+:fontawesome-regular-face-laugh-wink:
