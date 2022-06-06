@@ -24,5 +24,10 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 Trying to add a video <a href="https://www.youtube.com/watch?v=taeAqimxXWo&t=85s"> <i class="fa-solid fa-film"></i></a>
 
+
+
 Adding font awesome 
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+
 <i class="fa fa-camera-retro fa-lg"></i> fa-lg
