@@ -28,7 +28,9 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
 
-<i class="fa-solid fa-film"></i></a>
+<i class="fa-solid fa-film"></i></a> film
+
+<i class="fa-solid fa-video"></i> video
 
 <i class="fa fa-camera-retro fa-lg"></i> fa-lg
 
