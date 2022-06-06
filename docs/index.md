@@ -30,3 +30,5 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 <i class="fa fa-camera-retro fa-lg"></i> This is a movie icon.
 
+
+[<i class="fa fa-camera-retro fa-lg"></i>]([https://www.nytimes.com/games/wordle/index.html](https://www.youtube.com/channel/UCf-6w2O0wtG5CwmJDzUmZQg)) This is a hyperlinked movie icon.
