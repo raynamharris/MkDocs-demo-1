@@ -34,4 +34,4 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 <i class="fa fa-camera-retro fa-lg"></i> fa-lg
 
-:fontawesome-regular-face-laugh-wink:
+:movie_camera:
