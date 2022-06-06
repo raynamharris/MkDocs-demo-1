@@ -30,6 +30,3 @@ theme:
   
   features:
     - instant
-
-markdown_extensions:
-    - fontawesome_markdown
