@@ -26,5 +26,7 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Font Awesome
 
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+
 <i class="fa fa-camera-retro fa-lg"></i> This is a movie icon.
 
