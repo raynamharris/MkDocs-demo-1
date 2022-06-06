@@ -30,5 +30,6 @@ theme:
   
   features:
     - instant
-#    - tabs
 
+markdown_extensions:
+    - fontawesome_markdown
